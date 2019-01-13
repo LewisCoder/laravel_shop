@@ -1,0 +1,5 @@
+{
+    "require": {
+        "overtrue/laravel-lang": "~3.0"
+    }
+}
